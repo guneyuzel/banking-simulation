@@ -37,7 +37,7 @@ case 1:
     break;
 
 case 2:
-    cout << "Please type the ammount of the dollars you want to withdraw from your account.";
+    cout << "Please type the ammount of the dollars you want to withdraw from your account: ";
     cin >> w;
     cout << w << " ammount of dollars successfully withdrew from your account.\nDon't forget to take your money.\n";
     break;
